@@ -1,0 +1,230 @@
+[
+  {
+    "id": "1",
+    "firstName": "Sarah",
+    "lastName": "Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1-555-0123",
+    "company": "TechCorp Solutions",
+    "position": "VP of Engineering",
+    "address": {
+      "street": "123 Innovation Drive",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94105"
+    },
+    "tags": ["enterprise", "technology", "decision-maker"],
+    "category": "prospect",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-20T14:45:00Z"
+  },
+  {
+    "id": "2",
+    "firstName": "Michael",
+    "lastName": "Chen",
+    "email": "m.chen@globalmanufacturing.com",
+    "phone": "+1-555-0124",
+    "company": "Global Manufacturing Inc",
+    "position": "Chief Technology Officer",
+    "address": {
+      "street": "456 Industrial Way",
+      "city": "Detroit",
+      "state": "MI",
+      "zipCode": "48201"
+    },
+    "tags": ["manufacturing", "enterprise", "C-level"],
+    "category": "customer",
+    "createdAt": "2024-01-10T09:15:00Z",
+    "updatedAt": "2024-01-18T11:20:00Z"
+  },
+  {
+    "id": "3",
+    "firstName": "Emily",
+    "lastName": "Rodriguez",
+    "email": "emily.r@innovatestart.com",
+    "phone": "+1-555-0125",
+    "company": "InnovateStart",
+    "position": "Founder & CEO",
+    "address": {
+      "street": "789 Startup Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "73301"
+    },
+    "tags": ["startup", "CEO", "early-stage"],
+    "category": "lead",
+    "createdAt": "2024-01-12T16:45:00Z",
+    "updatedAt": "2024-01-19T10:30:00Z"
+  },
+  {
+    "id": "4",
+    "firstName": "David",
+    "lastName": "Thompson",
+    "email": "david.thompson@healthtech.org",
+    "phone": "+1-555-0126",
+    "company": "HealthTech Systems",
+    "position": "Director of Operations",
+    "address": {
+      "street": "321 Medical Center Blvd",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "02101"
+    },
+    "tags": ["healthcare", "operations", "mid-market"],
+    "category": "prospect",
+    "createdAt": "2024-01-08T13:20:00Z",
+    "updatedAt": "2024-01-17T15:10:00Z"
+  },
+  {
+    "id": "5",
+    "firstName": "Lisa",
+    "lastName": "Wang",
+    "email": "lisa.wang@financeplus.com",
+    "phone": "+1-555-0127",
+    "company": "FinancePlus Corp",
+    "position": "Senior Vice President",
+    "address": {
+      "street": "555 Wall Street",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10005"
+    },
+    "tags": ["finance", "enterprise", "senior-executive"],
+    "category": "customer",
+    "createdAt": "2024-01-05T11:45:00Z",
+    "updatedAt": "2024-01-16T09:25:00Z"
+  },
+  {
+    "id": "6",
+    "firstName": "James",
+    "lastName": "Wilson",
+    "email": "j.wilson@retailgiant.com",
+    "phone": "+1-555-0128",
+    "company": "RetailGiant Inc",
+    "position": "IT Manager",
+    "address": {
+      "street": "888 Commerce Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601"
+    },
+    "tags": ["retail", "IT", "manager"],
+    "category": "lead",
+    "createdAt": "2024-01-14T14:30:00Z",
+    "updatedAt": "2024-01-21T12:15:00Z"
+  },
+  {
+    "id": "7",
+    "firstName": "Amanda",
+    "lastName": "Foster",
+    "email": "amanda.foster@educationsol.edu",
+    "phone": "+1-555-0129",
+    "company": "Education Solutions",
+    "position": "Product Manager",
+    "address": {
+      "street": "777 Learning Lane",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "98101"
+    },
+    "tags": ["education", "product", "saas"],
+    "category": "prospect",
+    "createdAt": "2024-01-11T08:45:00Z",
+    "updatedAt": "2024-01-20T16:40:00Z"
+  },
+  {
+    "id": "8",
+    "firstName": "Robert",
+    "lastName": "Martinez",
+    "email": "robert.m@logisticsflow.com",
+    "phone": "+1-555-0130",
+    "company": "LogisticsFlow",
+    "position": "Head of Digital Transformation",
+    "address": {
+      "street": "999 Supply Chain Drive",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipCode": "30301"
+    },
+    "tags": ["logistics", "digital-transformation", "enterprise"],
+    "category": "customer",
+    "createdAt": "2024-01-09T12:00:00Z",
+    "updatedAt": "2024-01-18T14:20:00Z"
+  },
+  {
+    "id": "9",
+    "firstName": "Jennifer",
+    "lastName": "Lee",
+    "email": "jennifer.lee@greenenergyco.com",
+    "phone": "+1-555-0131",
+    "company": "Green Energy Co",
+    "position": "Chief Innovation Officer",
+    "address": {
+      "street": "444 Renewable Way",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "97201"
+    },
+    "tags": ["energy", "sustainability", "innovation"],
+    "category": "lead",
+    "createdAt": "2024-01-13T15:15:00Z",
+    "updatedAt": "2024-01-19T11:45:00Z"
+  },
+  {
+    "id": "10",
+    "firstName": "Kevin",
+    "lastName": "Brown",
+    "email": "kevin.brown@mediaworks.tv",
+    "phone": "+1-555-0132",
+    "company": "MediaWorks Studio",
+    "position": "Creative Director",
+    "address": {
+      "street": "222 Entertainment Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90210"
+    },
+    "tags": ["media", "creative", "entertainment"],
+    "category": "prospect",
+    "createdAt": "2024-01-07T10:20:00Z",
+    "updatedAt": "2024-01-17T13:35:00Z"
+  },
+  {
+    "id": "11",
+    "firstName": "Rachel",
+    "lastName": "Davis",
+    "email": "rachel.davis@consultnow.com",
+    "phone": "+1-555-0133",
+    "company": "ConsultNow Partners",
+    "position": "Managing Partner",
+    "address": {
+      "street": "111 Strategy Circle",
+      "city": "Washington",
+      "state": "DC",
+      "zipCode": "20001"
+    },
+    "tags": ["consulting", "partner", "strategy"],
+    "category": "customer",
+    "createdAt": "2024-01-06T09:30:00Z",
+    "updatedAt": "2024-01-16T15:50:00Z"
+  },
+  {
+    "id": "12",
+    "firstName": "Steven",
+    "lastName": "Taylor",
+    "email": "steven.taylor@constructco.build",
+    "phone": "+1-555-0134",
+    "company": "ConstructCo",
+    "position": "Project Manager",
+    "address": {
+      "street": "333 Building Avenue",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "85001"
+    },
+    "tags": ["construction", "project-management", "industrial"],
+    "category": "lead",
+    "createdAt": "2024-01-16T11:10:00Z",
+    "updatedAt": "2024-01-21T08:25:00Z"
+  }
+]

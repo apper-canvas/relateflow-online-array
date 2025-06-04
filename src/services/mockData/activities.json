@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "type": "call",
+    "description": "Initial discovery call to understand CRM requirements and current pain points",
+    "contactId": "1",
+    "dealId": "1",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "duration": 45
+  },
+  {
+    "id": "2",
+    "type": "email",
+    "description": "Sent proposal document with detailed implementation timeline and pricing",
+    "contactId": "1",
+    "dealId": "1",
+    "timestamp": "2024-01-16T14:20:00Z",
+    "duration": 0
+  },
+  {
+    "id": "3",
+    "type": "meeting",
+    "description": "Product demonstration focusing on manufacturing-specific features",
+    "contactId": "2",
+    "dealId": "2",
+    "timestamp": "2024-01-12T15:00:00Z",
+    "duration": 90
+  },
+  {
+    "id": "4",
+    "type": "call",
+    "description": "Follow-up call to address technical questions and integration concerns",
+    "contactId": "2",
+    "dealId": "2",
+    "timestamp": "2024-01-18T11:30:00Z",
+    "duration": 30
+  },
+  {
+    "id": "5",
+    "type": "note",
+    "description": "Contact expressed interest in startup-friendly pricing and implementation support",
+    "contactId": "3",
+    "dealId": "3",
+    "timestamp": "2024-01-13T09:15:00Z",
+    "duration": 0
+  },
+  {
+    "id": "6",
+    "type": "email",
+    "description": "Shared case study of similar healthcare implementation and ROI metrics",
+    "contactId": "4",
+    "dealId": "4",
+    "timestamp": "2024-01-14T16:45:00Z",
+    "duration": 0
+  },
+  {
+    "id": "7",
+    "type": "meeting",
+    "description": "Contract negotiation meeting with legal and procurement teams",
+    "contactId": "5",
+    "dealId": "5",
+    "timestamp": "2024-01-10T13:00:00Z",
+    "duration": 120
+  },
+  {
+    "id": "8",
+    "type": "call",
+    "description": "Closing call - contract signed and implementation kickoff scheduled",
+    "contactId": "5",
+    "dealId": "5",
+    "timestamp": "2024-01-16T10:00:00Z",
+    "duration": 25
+  },
+  {
+    "id": "9",
+    "type": "email",
+    "description": "Initial outreach with company overview and value proposition",
+    "contactId": "6",
+    "dealId": "6",
+    "timestamp": "2024-01-15T08:30:00Z",
+    "duration": 0
+  },
+  {
+    "id": "10",
+    "type": "call",
+    "description": "Qualification call to understand budget, timeline, and decision-making process",
+    "contactId": "7",
+    "dealId": "7",
+    "timestamp": "2024-01-17T14:15:00Z",
+    "duration": 35
+  },
+  {
+    "id": "11",
+    "type": "meeting",
+    "description": "Technical architecture review with IT and operations teams",
+    "contactId": "8",
+    "dealId": "8",
+    "timestamp": "2024-01-11T10:30:00Z",
+    "duration": 150
+  },
+  {
+    "id": "12",
+    "type": "email",
+    "description": "Proposal revision based on feedback from stakeholder review",
+    "contactId": "8",
+    "dealId": "8",
+    "timestamp": "2024-01-19T12:45:00Z",
+    "duration": 0
+  },
+  {
+    "id": "13",
+    "type": "note",
+    "description": "Prospect interested but needs to secure additional budget approval",
+    "contactId": "9",
+    "dealId": "9",
+    "timestamp": "2024-01-14T11:20:00Z",
+    "duration": 0
+  },
+  {
+    "id": "14",
+    "type": "call",
+    "description": "Creative brief discussion and platform customization requirements",
+    "contactId": "10",
+    "dealId": "10",
+    "timestamp": "2024-01-16T15:30:00Z",
+    "duration": 50
+  },
+  {
+    "id": "15",
+    "type": "meeting",
+    "description": "Final presentation to board of directors and contract signing",
+    "contactId": "11",
+    "dealId": "11",
+    "timestamp": "2024-01-09T09:00:00Z",
+    "duration": 180
+  },
+  {
+    "id": "16",
+    "type": "call",
+    "description": "Project scoping call to define deliverables and timeline",
+    "contactId": "12",
+    "dealId": "12",
+    "timestamp": "2024-01-18T13:45:00Z",
+    "duration": 40
+  },
+  {
+    "id": "17",
+    "type": "email",
+    "description": "Thank you note and next steps after successful product demo",
+    "contactId": "3",
+    "dealId": "15",
+    "timestamp": "2024-01-20T17:00:00Z",
+    "duration": 0
+  },
+  {
+    "id": "18",
+    "type": "task",
+    "description": "Prepare competitive analysis document for healthcare industry",
+    "contactId": "4",
+    "dealId": "4",
+    "timestamp": "2024-01-19T08:00:00Z",
+    "duration": 0
+  },
+  {
+    "id": "19",
+    "type": "call",
+    "description": "Weekly check-in call to discuss implementation progress",
+    "contactId": "5",
+    "dealId": "5",
+    "timestamp": "2024-01-21T14:00:00Z",
+    "duration": 30
+  },
+  {
+    "id": "20",
+    "type": "meeting",
+    "description": "Stakeholder alignment meeting to finalize requirements",
+    "contactId": "1",
+    "dealId": "1",
+    "timestamp": "2024-01-20T10:00:00Z",
+    "duration": 75
+  }
+]

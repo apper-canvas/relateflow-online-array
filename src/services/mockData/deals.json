@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "title": "TechCorp CRM Implementation",
+    "value": 125000,
+    "stage": "proposal",
+    "contactId": "1",
+    "probability": 75,
+    "expectedCloseDate": "2024-03-15",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-20T14:45:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Global Manufacturing Digital Suite",
+    "value": 250000,
+    "stage": "negotiation",
+    "contactId": "2",
+    "probability": 85,
+    "expectedCloseDate": "2024-02-28",
+    "createdAt": "2024-01-10T09:15:00Z",
+    "updatedAt": "2024-01-18T11:20:00Z"
+  },
+  {
+    "id": "3",
+    "title": "InnovateStart Starter Package",
+    "value": 15000,
+    "stage": "qualified",
+    "contactId": "3",
+    "probability": 60,
+    "expectedCloseDate": "2024-04-10",
+    "createdAt": "2024-01-12T16:45:00Z",
+    "updatedAt": "2024-01-19T10:30:00Z"
+  },
+  {
+    "id": "4",
+    "title": "HealthTech Operations Platform",
+    "value": 180000,
+    "stage": "proposal",
+    "contactId": "4",
+    "probability": 70,
+    "expectedCloseDate": "2024-03-30",
+    "createdAt": "2024-01-08T13:20:00Z",
+    "updatedAt": "2024-01-17T15:10:00Z"
+  },
+  {
+    "id": "5",
+    "title": "FinancePlus Enterprise License",
+    "value": 320000,
+    "stage": "closed-won",
+    "contactId": "5",
+    "probability": 100,
+    "expectedCloseDate": "2024-01-31",
+    "createdAt": "2024-01-05T11:45:00Z",
+    "updatedAt": "2024-01-16T09:25:00Z"
+  },
+  {
+    "id": "6",
+    "title": "RetailGiant IT Modernization",
+    "value": 95000,
+    "stage": "lead",
+    "contactId": "6",
+    "probability": 25,
+    "expectedCloseDate": "2024-05-15",
+    "createdAt": "2024-01-14T14:30:00Z",
+    "updatedAt": "2024-01-21T12:15:00Z"
+  },
+  {
+    "id": "7",
+    "title": "Education Solutions SaaS Platform",
+    "value": 75000,
+    "stage": "qualified",
+    "contactId": "7",
+    "probability": 55,
+    "expectedCloseDate": "2024-04-20",
+    "createdAt": "2024-01-11T08:45:00Z",
+    "updatedAt": "2024-01-20T16:40:00Z"
+  },
+  {
+    "id": "8",
+    "title": "LogisticsFlow Digital Transformation",
+    "value": 450000,
+    "stage": "negotiation",
+    "contactId": "8",
+    "probability": 90,
+    "expectedCloseDate": "2024-02-15",
+    "createdAt": "2024-01-09T12:00:00Z",
+    "updatedAt": "2024-01-18T14:20:00Z"
+  },
+  {
+    "id": "9",
+    "title": "Green Energy Innovation Suite",
+    "value": 65000,
+    "stage": "lead",
+    "contactId": "9",
+    "probability": 30,
+    "expectedCloseDate": "2024-06-01",
+    "createdAt": "2024-01-13T15:15:00Z",
+    "updatedAt": "2024-01-19T11:45:00Z"
+  },
+  {
+    "id": "10",
+    "title": "MediaWorks Creative Platform",
+    "value": 85000,
+    "stage": "proposal",
+    "contactId": "10",
+    "probability": 65,
+    "expectedCloseDate": "2024-03-10",
+    "createdAt": "2024-01-07T10:20:00Z",
+    "updatedAt": "2024-01-17T13:35:00Z"
+  },
+  {
+    "id": "11",
+    "title": "ConsultNow Strategy Package",
+    "value": 195000,
+    "stage": "closed-won",
+    "contactId": "11",
+    "probability": 100,
+    "expectedCloseDate": "2024-01-20",
+    "createdAt": "2024-01-06T09:30:00Z",
+    "updatedAt": "2024-01-16T15:50:00Z"
+  },
+  {
+    "id": "12",
+    "title": "ConstructCo Project Management Tools",
+    "value": 45000,
+    "stage": "qualified",
+    "contactId": "12",
+    "probability": 50,
+    "expectedCloseDate": "2024-04-30",
+    "createdAt": "2024-01-16T11:10:00Z",
+    "updatedAt": "2024-01-21T08:25:00Z"
+  },
+  {
+    "id": "13",
+    "title": "TechCorp Additional Modules",
+    "value": 35000,
+    "stage": "lead",
+    "contactId": "1",
+    "probability": 40,
+    "expectedCloseDate": "2024-05-30",
+    "createdAt": "2024-01-18T14:15:00Z",
+    "updatedAt": "2024-01-20T16:30:00Z"
+  },
+  {
+    "id": "14",
+    "title": "HealthTech Mobile Extension",
+    "value": 55000,
+    "stage": "closed-lost",
+    "contactId": "4",
+    "probability": 0,
+    "expectedCloseDate": "2024-01-15",
+    "createdAt": "2024-01-05T10:00:00Z",
+    "updatedAt": "2024-01-15T17:45:00Z"
+  },
+  {
+    "id": "15",
+    "title": "InnovateStart Growth Package",
+    "value": 28000,
+    "stage": "proposal",
+    "contactId": "3",
+    "probability": 80,
+    "expectedCloseDate": "2024-02-20",
+    "createdAt": "2024-01-19T09:20:00Z",
+    "updatedAt": "2024-01-21T11:10:00Z"
+  }
+]

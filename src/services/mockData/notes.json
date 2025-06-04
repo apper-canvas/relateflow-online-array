@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "content": "Sarah mentioned they're evaluating 3 different CRM solutions. Our main competitors are Salesforce and HubSpot. Price is a key factor, but they're more concerned about ease of implementation and user adoption.",
+    "contactId": "1",
+    "dealId": "1",
+    "createdAt": "2024-01-15T11:15:00Z"
+  },
+  {
+    "id": "2",
+    "content": "Michael is very impressed with our manufacturing-specific features. He's particularly interested in the supply chain integration capabilities. Decision timeline is Q1 2024.",
+    "contactId": "2",
+    "dealId": "2",
+    "createdAt": "2024-01-12T16:30:00Z"
+  },
+  {
+    "id": "3",
+    "content": "Emily loves the product but needs startup-friendly pricing. She's willing to provide a case study and testimonial in exchange for a discount. Great opportunity for content marketing.",
+    "contactId": "3",
+    "dealId": "3",
+    "createdAt": "2024-01-13T10:45:00Z"
+  },
+  {
+    "id": "4",
+    "content": "David needs extensive HIPAA compliance documentation. They've had issues with previous vendors not meeting healthcare regulatory requirements. Compliance is non-negotiable.",
+    "contactId": "4",
+    "dealId": "4",
+    "createdAt": "2024-01-14T14:20:00Z"
+  },
+  {
+    "id": "5",
+    "content": "Lisa was the champion throughout the sales process. She's excited about the ROI projections and wants to schedule implementation ASAP. Strong reference potential.",
+    "contactId": "5",
+    "dealId": "5",
+    "createdAt": "2024-01-16T09:00:00Z"
+  },
+  {
+    "id": "6",
+    "content": "James is interested but needs buy-in from the VP of Operations. Budget is approved but timeline might slip to Q2. Need to identify and engage the VP.",
+    "contactId": "6",
+    "dealId": "6",
+    "createdAt": "2024-01-15T13:30:00Z"
+  },
+  {
+    "id": "7",
+    "content": "Amanda is evaluating us against Blackboard and Canvas. She's impressed with our modern interface and reporting capabilities. Student data privacy is a key concern.",
+    "contactId": "7",
+    "dealId": "7",
+    "createdAt": "2024-01-17T15:45:00Z"
+  },
+  {
+    "id": "8",
+    "content": "Robert wants extensive customization for their logistics workflows. This could be a great showcase implementation for the transportation industry. Premium pricing justified.",
+    "contactId": "8",
+    "dealId": "8",
+    "createdAt": "2024-01-11T12:15:00Z"
+  },
+  {
+    "id": "9",
+    "content": "Jennifer is passionate about sustainability reporting features. They need carbon footprint tracking and ESG compliance. This could differentiate us in the energy sector.",
+    "contactId": "9",
+    "dealId": "9",
+    "createdAt": "2024-01-14T16:00:00Z"
+  },
+  {
+    "id": "10",
+    "content": "Kevin loves the creative collaboration features. They need project management tools that work for creative teams. Timeline flexibility is important for their industry.",
+    "contactId": "10",
+    "dealId": "10",
+    "createdAt": "2024-01-16T11:20:00Z"
+  },
+  {
+    "id": "11",
+    "content": "Rachel was very thorough in her evaluation process. She appreciated our consulting industry expertise and reference customers. Quick implementation is critical.",
+    "contactId": "11",
+    "dealId": "11",
+    "createdAt": "2024-01-09T14:30:00Z"
+  },
+  {
+    "id": "12",
+    "content": "Steven needs project tracking capabilities specific to construction. He's interested in mobile functionality for field workers. Budget is tight but deal is possible.",
+    "contactId": "12",
+    "dealId": "12",
+    "createdAt": "2024-01-18T10:45:00Z"
+  },
+  {
+    "id": "13",
+    "content": "Follow-up from TechCorp: They want to add additional modules for marketing automation. Upsell opportunity worth $35k. Sarah is the main contact for expansion.",
+    "contactId": "1",
+    "dealId": "13",
+    "createdAt": "2024-01-19T09:30:00Z"
+  },
+  {
+    "id": "14",
+    "content": "HealthTech mobile extension deal was lost to a competitor who offered better mobile interface. Lesson learned: need to improve mobile demo for healthcare prospects.",
+    "contactId": "4",
+    "dealId": "14",
+    "createdAt": "2024-01-15T18:00:00Z"
+  },
+  {
+    "id": "15",
+    "content": "InnovateStart growth package: Emily is ready to expand after successful initial implementation. She's become our advocate and is referring other startups.",
+    "contactId": "3",
+    "dealId": "15",
+    "createdAt": "2024-01-20T14:15:00Z"
+  },
+  {
+    "id": "16",
+    "content": "General market insight: Healthcare industry is becoming more price-sensitive due to budget constraints. Need to develop more competitive pricing for this sector.",
+    "contactId": "",
+    "dealId": "",
+    "createdAt": "2024-01-18T16:30:00Z"
+  },
+  {
+    "id": "17",
+    "content": "Product feedback from recent demos: Prospects are asking for better integration with Microsoft Teams and Slack. This could be a differentiator if implemented quickly.",
+    "contactId": "",
+    "dealId": "",
+    "createdAt": "2024-01-19T13:45:00Z"
+  },
+  {
+    "id": "18",
+    "content": "Competitive intelligence: Salesforce just announced new pricing tiers. We need to adjust our competitive positioning and emphasize our implementation speed advantage.",
+    "contactId": "",
+    "dealId": "",
+    "createdAt": "2024-01-20T11:00:00Z"
+  }
+]

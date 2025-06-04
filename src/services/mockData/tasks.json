@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "title": "Follow up on TechCorp proposal",
+    "description": "Call Sarah to discuss any questions about the CRM implementation proposal",
+    "dueDate": "2024-01-25",
+    "priority": "high",
+    "status": "pending",
+    "contactId": "1",
+    "dealId": "1"
+  },
+  {
+    "id": "2",
+    "title": "Prepare manufacturing demo",
+    "description": "Customize product demo to show manufacturing-specific workflows for Global Manufacturing",
+    "dueDate": "2024-01-23",
+    "priority": "high",
+    "status": "in-progress",
+    "contactId": "2",
+    "dealId": "2"
+  },
+  {
+    "id": "3",
+    "title": "Send startup pricing options",
+    "description": "Research and send startup-friendly pricing tiers to InnovateStart",
+    "dueDate": "2024-01-26",
+    "priority": "medium",
+    "status": "pending",
+    "contactId": "3",
+    "dealId": "3"
+  },
+  {
+    "id": "4",
+    "title": "Healthcare compliance research",
+    "description": "Gather HIPAA compliance documentation for HealthTech Systems proposal",
+    "dueDate": "2024-01-24",
+    "priority": "high",
+    "status": "pending",
+    "contactId": "4",
+    "dealId": "4"
+  },
+  {
+    "id": "5",
+    "title": "Schedule implementation kickoff",
+    "description": "Coordinate with FinancePlus team to schedule project kickoff meeting",
+    "dueDate": "2024-01-22",
+    "priority": "high",
+    "status": "completed",
+    "contactId": "5",
+    "dealId": "5"
+  },
+  {
+    "id": "6",
+    "title": "Retail industry research",
+    "description": "Prepare retail industry insights and case studies for RetailGiant presentation",
+    "dueDate": "2024-01-28",
+    "priority": "medium",
+    "status": "pending",
+    "contactId": "6",
+    "dealId": "6"
+  },
+  {
+    "id": "7",
+    "title": "Educational sector case study",
+    "description": "Compile case studies of successful education sector implementations",
+    "dueDate": "2024-01-27",
+    "priority": "medium",
+    "status": "in-progress",
+    "contactId": "7",
+    "dealId": "7"
+  },
+  {
+    "id": "8",
+    "title": "Contract revision review",
+    "description": "Review LogisticsFlow contract revisions with legal team",
+    "dueDate": "2024-01-23",
+    "priority": "high",
+    "status": "in-progress",
+    "contactId": "8",
+    "dealId": "8"
+  },
+  {
+    "id": "9",
+    "title": "Sustainability features demo",
+    "description": "Prepare demo focusing on sustainability tracking features for Green Energy Co",
+    "dueDate": "2024-01-30",
+    "priority": "low",
+    "status": "pending",
+    "contactId": "9",
+    "dealId": "9"
+  },
+  {
+    "id": "10",
+    "title": "Creative workflow customization",
+    "description": "Design custom workflow templates for MediaWorks creative processes",
+    "dueDate": "2024-01-25",
+    "priority": "medium",
+    "status": "pending",
+    "contactId": "10",
+    "dealId": "10"
+  },
+  {
+    "id": "11",
+    "title": "Project handoff meeting",
+    "description": "Schedule handoff meeting with delivery team for ConsultNow implementation",
+    "dueDate": "2024-01-22",
+    "priority": "high",
+    "status": "completed",
+    "contactId": "11",
+    "dealId": "11"
+  },
+  {
+    "id": "12",
+    "title": "Construction industry analysis",
+    "description": "Research construction industry specific requirements and pain points",
+    "dueDate": "2024-01-29",
+    "priority": "medium",
+    "status": "pending",
+    "contactId": "12",
+    "dealId": "12"
+  },
+  {
+    "id": "13",
+    "title": "Quarterly business review prep",
+    "description": "Prepare materials for Q1 business review with key accounts",
+    "dueDate": "2024-01-31",
+    "priority": "medium",
+    "status": "pending",
+    "contactId": "",
+    "dealId": ""
+  },
+  {
+    "id": "14",
+    "title": "Update CRM pipeline",
+    "description": "Update all deal stages and probability scores in CRM system",
+    "dueDate": "2024-01-24",
+    "priority": "low",
+    "status": "in-progress",
+    "contactId": "",
+    "dealId": ""
+  },
+  {
+    "id": "15",
+    "title": "Competitive analysis update",
+    "description": "Update competitive analysis document with latest market intelligence",
+    "dueDate": "2024-01-26",
+    "priority": "low",
+    "status": "pending",
+    "contactId": "",
+    "dealId": ""
+  }
+]
