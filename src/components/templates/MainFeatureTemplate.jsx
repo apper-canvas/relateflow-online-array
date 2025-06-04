@@ -30,18 +30,18 @@ import React from 'react'
         handleEdit,
         handleStageChange
       }) => {
-        return (
-          &lt;div className="space-y-6"&gt;
+return (
+          <div className="space-y-6">
             {/* Header */}
-            &lt;FeatureHeader
+            <FeatureHeader
               title={view}
               description={`Manage your ${view} effectively`}
               onAddClick={onAddClick}
               addButtonLabel={`Add ${view.slice(0, -1)}`}
-            /&gt;
+            />
 
             {/* Search and Filters */}
-            &lt;SearchAndSortBar
+            <SearchAndSortBar
               searchTerm={searchTerm}
               onSearchChange={onSearchChange}
               sortField={sortField}
@@ -50,11 +50,11 @@ import React from 'react'
               onSortDirectionToggle={onSortDirectionToggle}
               sortOptions={sortOptions}
               view={view}
-            /&gt;
+            />
 
             {/* Content */}
             {view === 'deals' ? (
-              &lt;PipelineBoard
+              <PipelineBoard
                 data={data}
                 dealStages={dealStages}
                 handleEdit={handleEdit}
@@ -63,9 +63,9 @@ import React from 'react'
                 error={error}
                 searchTerm={searchTerm}
                 onAddClick={onAddClick}
-              /&gt;
+              />
             ) : (
-              &lt;EntityTable
+              <EntityTable
                 data={data}
                 view={view}
                 dealStages={dealStages}
@@ -76,11 +76,11 @@ import React from 'react'
                 error={error}
                 searchTerm={searchTerm}
                 onAddClick={onAddClick}
-              /&gt;
+              />
             )}
 
             {/* Modal */}
-            &lt;FeatureModal
+            <FeatureModal
               showModal={showModal}
               view={view}
               editingItem={editingItem}
@@ -90,8 +90,8 @@ import React from 'react'
               resetForm={resetForm}
               dealStages={dealStages}
               activityTypes={activityTypes}
-            /&gt;
-          &lt;/div&gt;
+            />
+          </div>
         )
       }
 
