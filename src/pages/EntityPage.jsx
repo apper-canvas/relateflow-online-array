@@ -209,32 +209,32 @@ import React, { useState, useEffect, useCallback } from 'react'
         const handleNavigation = (id) => {
           setActiveView(id)
           setSidebarOpen(false)
-          window.location.href = id === 'dashboard' ? '/' : `/${id}`
+window.location.href = id === 'dashboard' ? '/' : `/${id}`
         }
 
         return (
-          &lt;div className="min-h-screen bg-gray-50"&gt;
-            &lt;AppHeader onMenuToggle={() => setSidebarOpen(!sidebarOpen)} /&gt;
+          <div className="min-h-screen bg-gray-50">
+            <AppHeader onMenuToggle={() => setSidebarOpen(!sidebarOpen)} />
 
-            &lt;div className="flex"&gt;
-              &lt;Sidebar
+            <div className="flex">
+              <Sidebar
                 sidebarOpen={sidebarOpen}
                 navigationItems={navigationItems}
                 activeView={activeView}
                 setActiveView={handleNavigation}
                 setSidebarOpen={setSidebarOpen}
-              /&gt;
+              />
 
               {sidebarOpen && (
-                &lt;div
+                <div
                   className="fixed inset-0 bg-gray-600 bg-opacity-50 z-40 lg:hidden"
                   onClick={() => setSidebarOpen(false)}
-                /&gt;
+                />
               )}
 
-              &lt;div className="flex-1 lg:ml-0"&gt;
-                &lt;main className="p-4 md:p-6 lg:p-8 max-w-7xl mx-auto"&gt;
-                  &lt;MainFeatureTemplate
+              <div className="flex-1 lg:ml-0">
+                <main className="p-4 md:p-6 lg:p-8 max-w-7xl mx-auto">
+                  <MainFeatureTemplate
                     view={activeView}
                     data={filteredAndSortedData}
                     loading={loading}
@@ -258,11 +258,11 @@ import React, { useState, useEffect, useCallback } from 'react'
                     handleDelete={handleDelete}
                     handleEdit={handleEdit}
                     handleStageChange={handleStageChange}
-                  /&gt;
-                &lt;/main&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
+                  />
+                </main>
+              </div>
+            </div>
+          </div>
         )
       }
 

@@ -1,23 +1,23 @@
 import React from 'react'
 
       const Select = ({ label, value, onChange, options, className = '' }) => {
-        return (
-          &lt;&gt;
+return (
+          <>
             {label && (
-              &lt;label className="block text-sm font-medium text-gray-700 mb-1"&gt;{label}&lt;/label&gt;
+              <label className="block text-sm font-medium text-gray-700 mb-1">{label}</label>
             )}
-            &lt;select
+            <select
               value={value}
               onChange={onChange}
               className={`w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-primary ${className}`}
-            &gt;
+            >
               {options.map((option) => (
-                &lt;option key={option.value} value={option.value}&gt;
+                <option key={option.value} value={option.value}>
                   {option.label}
-                &lt;/option&gt;
+                </option>
               ))}
-            &lt;/select&gt;
-          &lt;/>
+            </select>
+          </>
         )
       }
 
