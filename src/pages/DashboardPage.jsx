@@ -74,53 +74,53 @@ import React, { useState, useEffect } from 'react'
           }
         }
 
-        const quickActions = [
+const quickActions = [
           { label: 'Add New Contact', icon: 'UserPlus', action: () => handleNavigation('contacts') },
           { label: 'Create Deal', icon: 'Plus', action: () => handleNavigation('deals') },
           { label: 'Log Activity', icon: 'Calendar', action: () => handleNavigation('activities') }
         ]
 
         return (
-          &lt;div className="min-h-screen bg-gray-50"&gt;
-            &lt;AppHeader onMenuToggle={() => setSidebarOpen(!sidebarOpen)} /&gt;
+          <div className="min-h-screen bg-gray-50">
+            <AppHeader onMenuToggle={() => setSidebarOpen(!sidebarOpen)} />
 
-            &lt;div className="flex"&gt;
-              &lt;Sidebar
+            <div className="flex">
+              <Sidebar
                 sidebarOpen={sidebarOpen}
                 navigationItems={navigationItems}
                 activeView={activeView}
                 setActiveView={handleNavigation}
                 setSidebarOpen={setSidebarOpen}
-              /&gt;
+              />
 
               {sidebarOpen && (
-                &lt;div
+                <div
                   className="fixed inset-0 bg-gray-600 bg-opacity-50 z-40 lg:hidden"
                   onClick={() => setSidebarOpen(false)}
-                /&gt;
+                />
               )}
 
-              &lt;div className="flex-1 lg:ml-0"&gt;
-                &lt;main className="p-4 md:p-6 lg:p-8 max-w-7xl mx-auto"&gt;
+              <div className="flex-1 lg:ml-0">
+                <main className="p-4 md:p-6 lg:p-8 max-w-7xl mx-auto">
                   {activeView === 'dashboard' ? (
-                    &lt;DashboardTemplate
+                    <DashboardTemplate
                       stats={stats}
                       loading={loading}
                       error={error}
                       formatCurrency={formatCurrency}
                       onAddContactClick={() => handleNavigation('contacts')}
                       quickActions={quickActions}
-                    /&gt;
+                    />
                   ) : (
                     // Redirect to specific entity page
                     // This case should ideally not be reached if routes are configured correctly
                     // but serves as a fallback or if we want to show a loading state here
-                    &lt;div&gt;Loading {activeView} content...&lt;/div&gt;
+                    <div>Loading {activeView} content...</div>
                   )}
-                &lt;/main&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
+                </main>
+              </div>
+            </div>
+          </div>
         )
       }
 
